@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <video height="200" src="https://media.giphy.com/media/gPkIN121mRrZS/giphy.gif?cid=790b7611a8kzlb22pstr8718hi8859my6edlnx7a8ylkcndo&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <video height="200" src="https://media.giphy.com/media/gPkIN121mRrZS/giphy.gif?cid=790b7611a8kzlb22pstr8718hi8859my6edlnx7a8ylkcndo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
 
 ###
