@@ -6,10 +6,7 @@
 
 ###
 
-<div align="center">
-  <video height="200" src="https://media.giphy.com/media/gPkIN121mRrZS/giphy.gif?cid=790b7611a8kzlb22pstr8718hi8859my6edlnx7a8ylkcndo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-</div>
-
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/YjXKZdADz1jobtngTl" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/TheSadTimesCo-moon-sheep-moonsheep-YjXKZdADz1jobtngTl">via GIPHY</a></p>
 ###
 
 <h2 align="left">I create bugs with</h2>
