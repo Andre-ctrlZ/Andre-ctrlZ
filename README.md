@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I know my way around: </h2>
+<h2 align="left">I know my way around </h2>
 
 ###
 
