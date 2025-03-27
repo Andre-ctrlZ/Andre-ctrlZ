@@ -6,6 +6,14 @@
 
 ###
 
+<h2 align="left">I know my way around: </h2>
+
+###
+
+<p align="left">🔧 I’ve got experience with ORM (Object-Relational Mapping) tools! 😎📊</p>
+
+###
+
 ###
 
 <h2 align="left">I create bugs with</h2>
