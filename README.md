@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">🔧 I’ve got experience with ORM (Object-Relational Mapping) tools! 😎📊</p>
+###
+
+<p align="left">🔧 I’ve got experience with ORM (Object-Relational Mapping)! 😎📊</p>
 
 ###
 
